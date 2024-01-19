@@ -2,7 +2,7 @@
   "name": "buscador",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://aavendan.github.io/buscador",
+  "homepage": "https://aavendan.github.io/spa-react",
   "type": "module",
   "scripts": {
     "dev": "vite",
