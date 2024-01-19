@@ -1,8 +1,8 @@
 {
-  "name": "buscador",
-  "private": true,
+  "name": "spa-react",
+  "private": false,
   "version": "0.0.0",
-  "homepage": "https://aavendan.github.io/spa-react",
+  "homepage": "https://aavendan.github.io/spa-react/",
   "type": "module",
   "scripts": {
     "dev": "vite",
